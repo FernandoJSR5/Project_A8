@@ -41,7 +41,7 @@ import { StitchModule } from './stitch/stitch.module';
     AppRoutingModule,
     HttpClientModule,
     StitchModule.forRoot({
-      appId: 'amebastitch-oitgn',
+      appId: 'APPID',
       serviceName: 'mongodb-atlas',
       dbName: 'ameba'
     }),
